@@ -2,14 +2,17 @@
 Tugas pertama membuat file mp3 dengan menggunakan PoweShell
 ```sh
 mkdir latihan1
-```sh
 ```
+```sh
 cd latihan1
-```sh
 ```
+```sh
+
 New-Item README.md -ItemType File
+```
 ```sh
 touch hati_yang_kau_sakiti_rossa.mp3
+```
 touch jodoh_pasti_bertemu_afgan.mp3
 touch monokrom_tulus.mp3
 touch kali_kedua_raisa.mp3
