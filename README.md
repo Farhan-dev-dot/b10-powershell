@@ -1,15 +1,23 @@
 ## Ministak1
+
 Tugas pertama membuat file mp3 dengan menggunakan PoweShell
+
+kode di bawah untuk membuat folder latihan 2 
 ```sh
 mkdir latihan1
 ```
+
+untuk masuk ke folder latihan 1
 ```sh
 cd latihan1
 ```
+
+untuk file README.md
 ```sh
 New-Item README.md -ItemType File
 ```
 
+untuk membuat text
 touch hati_yang_kau_sakiti_rossa.mp3
 touch jodoh_pasti_bertemu_afgan.mp3
 touch monokrom_tulus.mp3
