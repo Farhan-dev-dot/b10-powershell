@@ -12,11 +12,6 @@ untuk masuk ke folder latihan 1
 cd latihan1
 ```
 
-untuk file README.md
-```sh
-New-Item README.md -ItemType File
-```
-
 untuk membuat text
 touch hati_yang_kau_sakiti_rossa.mp3
 touch jodoh_pasti_bertemu_afgan.mp3
